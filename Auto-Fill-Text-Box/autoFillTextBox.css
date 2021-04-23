@@ -1,0 +1,19 @@
+.container{
+    display: grid;
+    justify-content: center;
+    grid-template-rows: 60vh;
+    background-color: aliceblue;
+}
+.textbox{
+    align-self: center;
+    
+}
+li{
+    list-style: none;
+    border: 0.2px solid rgb(110, 109, 109);
+    cursor: pointer;
+    border: none;
+}
+.autoComplete{
+    position: absolute;
+}
